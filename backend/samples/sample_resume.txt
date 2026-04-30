@@ -1,0 +1,25 @@
+ANANYA RAVI
+Data Analyst • Bangalore, India • ananya.ravi@example.com • github.com/ananyar
+
+EDUCATION
+B.Tech, Computer Science — RV College of Engineering, 2024 (CGPA 8.7)
+
+SKILLS
+Python, SQL, Pandas, NumPy, Matplotlib, Power BI, Excel, Git, HTML, CSS, Basic Statistics
+
+PROJECTS
+Sales Insights Dashboard
+- Built an interactive Power BI dashboard on 2 years of regional sales data, surfacing a 14% YoY drop in Tier-2 cities that informed the GM's replenishment plan.
+- Wrangled the dataset in Python + Pandas, published refresh-on-demand SQL views.
+
+Customer Churn EDA
+- Performed exploratory analysis on a telecom churn dataset with Pandas and Matplotlib; identified tenure and contract-type as top churn predictors.
+- Presented findings in a stakeholder-friendly report.
+
+Chinook Music Store SQL Analytics
+- Authored 20+ analytical SQL queries (CTEs, window functions) to answer revenue, cohort, and geography questions.
+
+EXPERIENCE
+Data Analyst Intern — Brightline Retail (Summer 2023)
+- Cut weekly reporting time 40% by automating Excel-to-SQL pipelines.
+- Partnered with marketing to A/B test three homepage variants; pick drove +6% CTR.
